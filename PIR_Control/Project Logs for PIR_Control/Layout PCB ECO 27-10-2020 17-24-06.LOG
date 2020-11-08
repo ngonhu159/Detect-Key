@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=BT_DOOR Pin=RPB1-2
+Removed Pin From Net: NetName=BT_LIGHT Pin=RPB1-3
+Added Pin To Net: NetName=BT_LIGHT Pin=RPB1-2
+Added Pin To Net: NetName=BT_DOOR Pin=RPB1-3
+Added Room: Name=Schematic

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetAC_DC_1 Pin=AC_DC-1
+Removed Pin From Net: NetName=NetAC_DC_2 Pin=AC_DC-2
+Change Component Footprint: Designator=LOAD_ATM Old Footprint=JP6-C1C New Footprint=JP6-C1T
+Added Pin To Net: NetName=NetAC_DC_2 Pin=AC_DC-1
+Added Pin To Net: NetName=NetAC_DC_1 Pin=AC_DC-2
+Change Net Name : Old Net Name=NetAC_DC_1 New Net Name=AC_R
+Change Net Name : Old Net Name=NetAC_DC_2 New Net Name=AC_L
+Added Room: Name=Schematic
